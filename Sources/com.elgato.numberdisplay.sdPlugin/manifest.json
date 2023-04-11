@@ -12,17 +12,17 @@
       ],
       "SupportedInMultiActions": false,
       "Tooltip": "This action displays a value set by the user",
-      "UUID": "com.elgato.numberdisplay.action"
+      "UUID": "localhost.test.sdk.action"
     }
   ],
   "SDKVersion": 2,
-  "Author": "Elgato",
+  "Author": "jonathan-annett",
   "CodePath": "index.html",
   "Description": "This lets you display a value chosen by the user",
   "Name": "Number Display",
   "Icon": "pluginIcon",
-  "URL": "https://www.elgato.com/gaming/stream-deck",
-  "PropertyInspectorPath": "numberdisplay_pi.html",
+  "URL": "https://github.com/jonathan-annett/streamdeck-sdk-test",
+  "PropertyInspectorPath": "localhost.test.sdk.pi.html",
   "Version": "1.4",
   "OS": [
     {
